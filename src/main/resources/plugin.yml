@@ -1,0 +1,6 @@
+name: PartialBlocksTeleportationFix
+version: 1.0
+main: fr.zcraft.PartialBlocksTPFix.PartialBlocksTeleportationFix
+
+description: Fixes teleportation glitch on partial blocks (like paths or farmlands).
+author: AmauryCarrade
